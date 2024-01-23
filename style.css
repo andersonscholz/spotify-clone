@@ -75,4 +75,10 @@ body{
     font-weight: bold;
     letter-spacing: 1px;
 }
+.btn-primary:hover{
+    cursor: pointer;
+    border:none;
+    transform: scale(1.04);
+    text-transform: bold;
+}
 
